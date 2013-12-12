@@ -1,0 +1,11 @@
+{
+  "name": "mapbox.js.bower",
+  "main": "mapbox.js",
+  "version": "1.5.2",
+  "homepage": "http://mapbox.com/",
+  "authors": [
+    "Kirill Sudarushkin (kirill@bigmilk.ru)"
+  ],
+  "description": "mapbox compiled javascript api",
+  "license": "MIT"
+}
